@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587213155321",
+    "project_id": "gdgtask-be537",
+    "storage_bucket": "gdgtask-be537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587213155321:android:8603d93f1cb11bd5dbeb28",
+        "android_client_info": {
+          "package_name": "com.example.gdg_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf1hOzPTgkxjn7yoysPRJduQfnY_vebEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
