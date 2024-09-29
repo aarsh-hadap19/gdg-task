@@ -1,0 +1,4 @@
+#Sun Sep 29 15:51:08 IST 2024
+base.0=/Users/aarsh/FlutterDev/sdk/gdg_task/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
