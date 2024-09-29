@@ -1,5 +1,4 @@
-# GDG Task - Build a Simple Dynamic Android App that dynamically loads content (text and images) from Firebase. The app should update in real-time without needing updates when data changes in Firebase.
-
+# GDG Task - Build a Simple Dynamic Android App that dynamically loads content (text and images) from Firebase.
 This project is a Flutter application that fetches content from Firestore and displays images and text with basic animations. It uses Firebase for the backend and Flutter as the UI framework.
 
 ## Features
@@ -82,3 +81,13 @@ dependencies:
    ```
 
 ### 6. Screenshots
+
+<div align="center">
+  <img src="https://github.com/aarsh-hadap19/gdg-task/blob/main/screenshots/getData.png" alt="Get Data Button" width="250" height="auto">
+  <img src="https://github.com/aarsh-hadap19/gdg-task/blob/main/screenshots/img1.png" alt="Screen 1" width="250" height="auto">
+</div>
+
+<div align="center">
+  <img src="https://github.com/aarsh-hadap19/gdg-task/blob/main/screenshots/img2.png" alt="Screen 2" width="250" height="auto">
+  <img src="https://github.com/aarsh-hadap19/gdg-task/blob/main/screenshots/img3.png" alt="Screen 3" width="250" height="auto">
+</div>
